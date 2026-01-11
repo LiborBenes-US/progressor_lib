@@ -10,7 +10,7 @@ from .themes import (
     ASCIIArt, FancySymbols, CustomTemplate
 )
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __all__ = [
     "get_progress_drawer",
     "ProgressStyle",
